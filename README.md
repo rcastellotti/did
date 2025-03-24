@@ -1,4 +1,4 @@
-# todo -> :( // did -> :)
+# todo -> :( ~~~ did -> :)
 
 ```
 mkdir ~/bin
