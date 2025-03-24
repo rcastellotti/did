@@ -1,4 +1,4 @@
-# todo -> :( ~~~ did -> :)
+# todo is broken, use did :)
 
 ```
 mkdir ~/bin
