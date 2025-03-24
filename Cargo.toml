@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 rusqlite = "0.28.0"
 chrono = "0.4.23"
-clap = { version = "4.0.32", features = ["derive"] }
+clap = { version = "4.3.19", features = ["env", "derive"] }
 dirs = "4.0.0"
